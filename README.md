@@ -12,7 +12,8 @@ Create the Category and Subcategory Dataframes:
 1)	imported the Excel file present in the resources folder and created a DataFrame in pandas.
 
 
- 
+ ![panda1](https://github.com/islam12k/Crowdfunding_ETL/assets/135572988/da4f77c2-452b-482a-897d-753cbcb4ab97)
+
 
 2)	Read the datatypes of the data frame created
  
