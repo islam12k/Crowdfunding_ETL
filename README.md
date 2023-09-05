@@ -154,4 +154,25 @@ o	Cleaned and then exported the DataFrame as contacts.csv and saved it to GitHub
 ![22](https://github.com/islam12k/Crowdfunding_ETL/assets/135572988/08ccb9ff-954a-421e-a941-67f01d11bcb8)
 ![23](https://github.com/islam12k/Crowdfunding_ETL/assets/135572988/ae21a85e-6b91-4a59-abc8-2b44d4d2dd9a)
 
+ **Results:**
+***Contact Data Frame:**
+
+ ![27](https://github.com/islam12k/Crowdfunding_ETL/assets/135572988/ba98037c-963c-4c2e-9e00-5b9c324d2189)
  
+**Category Data Frame:**
+
+![28](https://github.com/islam12k/Crowdfunding_ETL/assets/135572988/12311e8e-293f-4614-9f69-1f0c1d43e207)
+
+**Sub_Category Data Frame:**
+
+![29](https://github.com/islam12k/Crowdfunding_ETL/assets/135572988/bd3ee124-e5b2-44e5-badd-c8c56642194b)
+
+**Campaign Data Frame:**
+
+![30](https://github.com/islam12k/Crowdfunding_ETL/assets/135572988/64ea55d0-c753-4bd9-9c73-b2affcaf2cf4)
+
+
+
+ 
+
+
